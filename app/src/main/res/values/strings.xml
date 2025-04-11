@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CST2335 Final</string>
+    <string name="menu_favourites">Favourites</string>
+    <string name="nav_header_desc">Description</string>
+    <string name="nav_header_title">Title</string>
+    <string name="nav_header_subtitle">Subtitle</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="search_hint">Search for an article</string>
+    <string name="button_favourite">Favourite</string>
+    <string name="button_url">Go to URL</string>
+    <string name="menu_search">Search</string>
+    <string name="about_text">This program was made by Raymond Lu for CST 2335, it is a program designed to allow users to search a query, and then click on them for more details. This allows users to visit the links or favourite them for later use.</string>
+    <string name="alert_text">Do you want to delete this?</string>
+    <string name="selected_row">"The selected row is: "</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deleted">Deleted</string>
+    <string name="dismiss">Dismiss</string>
+    "
+</resources>

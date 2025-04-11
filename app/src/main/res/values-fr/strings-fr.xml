@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_url">Aller à l\'URL</string>
+    <string name="menu_search">Recherche</string>
+    <string name="app_name">CST2335 Final</string>
+    <string name="menu_favourites">Favoris</string>
+    <string name="nav_header_desc">Description</string>
+    <string name="nav_header_title">Titre</string>
+    <string name="nav_header_subtitle">Sous-titre</string>
+    <string name="open">Ouvrir</string>
+    <string name="close">Fermer</string>
+    <string name="menu_home">Maison</string>
+    <string name="menu_about">À propos</string>
+    <string name="search_hint">Rechercher un article</string>
+    <string name="button_favourite">Préféré</string>
+    <string name="about_text">Ce programme, créé par Raymond Lu pour le CST 2335, permet aux utilisateurs de rechercher une requête, puis de cliquer dessus pour obtenir plus de détails. Ils peuvent ainsi consulter les liens ou les ajouter à leurs favoris pour une utilisation ultérieure.</string>
+    <string name="selected_row">"La ligne sélectionnée est: "</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="deleted">Supprimé</string>
+    <string name="alert_text">Voulez-vous supprimer cela ?</string>
+    <string name="dismiss">Rejeter</string>
+    "
+</resources>
